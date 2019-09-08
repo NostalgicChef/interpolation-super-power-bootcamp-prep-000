@@ -1,5 +1,5 @@
 def #display_rainbow 
-  colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
+  colors(["red", "orange", "yellow", "green", "blue", "indigo", "violet"])
   puts "the first color in the rainbow is : #{red}"
   puts "the second color in the rainbow is : #{orange}"
   puts "the third color in the rainbow is : #{yellow}"
