@@ -1,3 +1,3 @@
 def #display_rainbow
 colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
-di
+#display_rainbow("r")
